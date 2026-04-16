@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run a test command
-        run: echo "CI is working 🚀"
+        run: echo "CI is working "
